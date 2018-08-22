@@ -86,7 +86,7 @@ body {
   text-align: center;
 }
 .logo a {
-  top: 40px;
+  /* top: 40px; */
   display: block;
   position: relative;
   z-index: 20;
